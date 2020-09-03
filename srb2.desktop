@@ -1,0 +1,19 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Sonic Robo Blast 2
+Comment=A 3D Sonic the Hedgehog fangame based on a modified version of Doom Legacy
+TryExec=srb2
+Exec=fsrb2
+Icon=/usr/share/games/SRB2/icon.png
+Terminal=false
+Categories=Game;
+[Desktop Entry]
+Version=2.2.6
+Type=Application
+Name=Sonic Robo Blast 2
+Comment=A 3D Sonic the Hedgehog fangame based on a modified version of Doom Legacy
+Exec=srb2
+Icon=/usr/share/games/SRB2/icon.png
+Terminal=false
+Categories=Game;
